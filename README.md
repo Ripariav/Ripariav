@@ -2,7 +2,7 @@
 - 📊 I´m an industrial engenieer, and a self-taught programmer
 - 💻 My website: (working on progress)
 - 📡 If you want some help with something you can contact me by:
-    - danielriveravelasquez@gmail.com
+    - danielriverav.com
 
 <!---
 Ripariav/Ripariav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
